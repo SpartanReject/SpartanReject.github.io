@@ -848,13 +848,16 @@ p.VOTDinfo{
     }
 
     .showcase .showcase-footer {
-        position: relative;
-        height: 200px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        overflow: hidden
     }
 
     .showcase .showcase-footer .social_icon_lg {
-        height: 200px;
-        margin: 0 auto;
+        flex-shrink: 0;
+        min-width: 100%;
+        min-height: 100%
     }
 
     .showcase .VOTD {
