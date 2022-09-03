@@ -852,6 +852,11 @@ p.VOTDinfo{
         height: 200px;
     }
 
+    .showcase .showcase-footer .social_icon_lg {
+        height: 200px;
+        margin: 0 auto;
+    }
+
     .showcase .VOTD {
         height: 320px;
         width: 350px;
