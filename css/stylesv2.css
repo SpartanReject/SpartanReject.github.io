@@ -847,6 +847,11 @@ p.VOTDinfo{
         /* padding-right: 10px; */
     }
 
+    .showcase .showcase-footer {
+        position: relative;
+        height: 200px;
+    }
+
     .showcase .VOTD {
         height: 320px;
         width: 350px;
