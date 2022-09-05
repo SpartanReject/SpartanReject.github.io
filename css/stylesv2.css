@@ -444,6 +444,7 @@ section.social {
 .sidebar .twitter.card {
     /* margin-bottom: auto;
     float: inline-start; */
+    padding-top: 20px;
     margin-bottom: 30px;
     -webkit-overflow-scrolling:touch;
     overflow: auto;
