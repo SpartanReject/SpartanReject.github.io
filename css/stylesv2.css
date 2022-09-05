@@ -858,7 +858,7 @@ p.VOTDinfo{
         width: 125px; 
         height: 40px; 
         display: block; 
-        background: url('web_images/become-a-patron-button.png'); 
+        background: url('../web_images/become-a-patron-button.png'); 
         background-position: 0 0; 
         background-repeat: no-repeat; 
         text-indent: -9999px; /* To not show the text-link */ 
