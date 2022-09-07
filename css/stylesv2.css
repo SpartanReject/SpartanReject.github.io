@@ -193,7 +193,7 @@ p {
 
 .showcase .container .showcase-text h1 {
     color: white;
-    padding-bottom: 2rem;
+    padding-bottom: 1rem;
 
 }
 
@@ -837,7 +837,7 @@ p.VOTDinfo{
         padding-top: 200px;
     }
     .showcase img {
-        height: 5px;
+        /* height: 5px; */
     }
     .showcase .container {
         grid-template-columns: 1fr;
